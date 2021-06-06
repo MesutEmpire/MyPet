@@ -1,0 +1,39 @@
+.Size {
+  font-size: 220%;
+}
+
+em {
+  color: turquoise;
+}
+
+#eqs {
+  align-self: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 300%;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.bg {
+  background-color: lightpink;
+}
+
+img {
+  border-radius: 25%;
+  height: 25%;
+  width: 10%;
+}
+
+div {
+  font-size: 150%;
+  background-color: white;
+}
+
+#hq {
+  font-size: 280%;
+}
+
+#sms {
+  background-color: rgb(177, 229, 147);
+}
